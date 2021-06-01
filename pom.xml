@@ -62,6 +62,7 @@
 	
 
 	<build>
+		<fileName>HCL</fileName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
