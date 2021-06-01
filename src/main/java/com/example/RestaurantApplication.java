@@ -12,6 +12,7 @@ public class RestaurantApplication extends SpringBootServletInitializer
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context= SpringApplication.run(RestaurantApplication.class, args);
+		//Sytem.out.println("pushed");
 	}
 	@Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
